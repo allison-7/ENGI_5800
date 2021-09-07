@@ -1,0 +1,15 @@
+# Eclipse files
+.project
+.classpath
+
+# Build files
+*.class
+build
+target
+
+# Emacs junk files
+*~
+[#]*[#]
+
+# Maven
+release.properties
